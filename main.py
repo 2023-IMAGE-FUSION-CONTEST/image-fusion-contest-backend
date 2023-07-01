@@ -7,7 +7,8 @@ import json
 
 origins = [
 	"http://127.0.0.1:3000",
-	"api.presso.codes"
+	"http://localhost:3001",
+	"https://port-0-image-fusion-contest-7xwyjq992lljjt5bow.sel4.cloudtype.app/"
 ]
 
 app = FastAPI()
